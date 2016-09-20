@@ -2,11 +2,11 @@
 
 ## Author
 
-You fill this out
+Susan Mumma
 
 ## Description
 
-This will be the description of the assignment
+Learning recursive programming on how to do factorials
 
 ### Notes
 
@@ -14,8 +14,8 @@ This will be any notes I add for you
 
 ## Outside Resources Used
 
-You fill this out
+The Teacher
 
 ## Known Problems, Issues, And/Or Errors in the Program
 
-You fill this out
+No errors, but you can't go past 30.
